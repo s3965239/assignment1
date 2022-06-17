@@ -2365,6 +2365,11 @@ input, select, textarea {
 
 		}
 
+
+/* Profile Image */
+
+		.circular--portrait { position: relative; width: 200px; height: 200px; overflow: hidden; border-radius: 500%; } .circular--portrait img { width: 100%; height: auto; }
+
 /* Pagination */
 
 	ul.pagination {
